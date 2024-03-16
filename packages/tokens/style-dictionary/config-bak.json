@@ -1,0 +1,16 @@
+{
+  "source": ["../json/fds-tokens-color.json"],
+  "platforms": {
+    "scss": {
+      "transformGroup": "css",
+      "buildPath": "build/css/",
+      "files": [{
+        "destination": "fds-tokens-color.css",
+        "format": "css/variables",
+        "options": {
+          "outputReferences": true
+        }
+      }]
+    }
+  }
+}
