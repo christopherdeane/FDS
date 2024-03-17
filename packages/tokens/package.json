@@ -1,0 +1,19 @@
+{
+  "name": "deane",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "style-dictionary-utils": "^2.0.7"
+  },
+  "devDependencies": {
+    "style-dictionary": "^3.9.2"
+  }
+}
