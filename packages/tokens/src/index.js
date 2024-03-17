@@ -9,7 +9,7 @@ const config = {
             files: [
                 {
                     format: "css/styles",
-                    destination: "styles.css",
+                    destination: "fds-tokens.css",
                 },
             ],
         },
