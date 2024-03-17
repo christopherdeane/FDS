@@ -1,7 +1,7 @@
 import StyleDictionary from "style-dictionary";
 
 const config = {
-    source: ["tokens/**/*.token.json"],
+    source: ["tokens/fds-tokens-color.json"],
     platforms: {
         css: {
             buildPath: "dist/css/",
